@@ -2,9 +2,9 @@
   "name": "status-code-list",
   "version": "1.0.0",
   "description": "Display http status codes on your terminal",
-  "main": "bin/status.js",
+  "main": "src/status_codes.js",
   "bin": {
-    "status-codes": "status-codes.js"
+    "status-codes": "bin/main.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +21,7 @@
     "list",
     "404",
     "500",
+    "message",
     "terminal",
     "cli"
   ],
