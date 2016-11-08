@@ -1,0 +1,33 @@
+{
+  "name": "status-code-list",
+  "version": "1.0.0",
+  "description": "Display http status codes on your terminal",
+  "main": "bin/status.js",
+  "bin": {
+    "status-codes": "status-codes.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codenameyau/status-codes.git"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "codes",
+    "code",
+    "list",
+    "404",
+    "500",
+    "terminal",
+    "cli"
+  ],
+  "author": "Jorge Yau <codenameyau@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codenameyau/status-codes/issues"
+  },
+  "homepage": "https://github.com/codenameyau/status-codes#readme"
+}
