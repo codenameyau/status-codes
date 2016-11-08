@@ -1,5 +1,3 @@
-'use strict';
-
 var status_codes = require('../src/status_codes');
 var format = require('util').format;
 var code_arg = process.argv[2];
